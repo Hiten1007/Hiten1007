@@ -91,42 +91,78 @@ fun_fact: "I think in YAML, dream in Python, and deploy in Docker 🐳"
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<!-- Project 1 -->
-<a href="https://github.com/Hiten1007/Autonomous-Renewable-First-Energy-Dispatcher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiten1007&repo=Autonomous-Renewable-First-Energy-Dispatcher&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-
-<!-- Project 2 -->
-<a href="https://github.com/Hiten1007/FloatChat-Brain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiten1007&repo=FloatChat-Brain&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-
-<!-- Project 3 -->
-<a href="https://github.com/Hiten1007/BREEZE-Backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiten1007&repo=BREEZE-Backend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-
-<!-- Project 4 -->
-<a href="https://github.com/Hiten1007/Ballot-Guide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiten1007&repo=Ballot-Guide&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<details>
-<summary><b>📋 Detailed Project Breakdown</b></summary>
-<br>
-
-| Project | Description | Stack | Recognition |
-|---------|-------------|-------|-------------|
-| **🔋 [Energy Dispatcher](https://github.com/Hiten1007/Autonomous-Renewable-First-Energy-Dispatcher)** | Closed-loop "Sense-Think-Act" digital twin for autonomous hybrid energy grid management with RAG-based reasoning using IBM Granite 3.0 | `IBM Granite` `LangChain` `FastAPI` `React` `Docker` | 🥇 **Top 10 – HackVeda 2026** |
-| **🌊 [FloatChat](https://github.com/Hiten1007/FloatChat-Brain)** | LLM-driven RAG pipeline ingesting 2M+ rows of ARGO NetCDF data with NL2SQL, reducing retrieval time by 40% | `React` `Node.js` `PostgreSQL` `Prisma` `Pinecone` | 🎯 **SIH 2025 Nominee** |
-| **🌿 [B.R.E.E.Z.E](https://github.com/Hiten1007/BREEZE-Backend)** | AI forecasting system predicting 24-hour ground-level O₃ and NO₂ concentrations using satellite datasets | `Python` `FastAPI` `LightGBM` `AWS S3` `Streamlit` | 📡 Real-time Dashboards |
-| **🗳️ [BallotGuide](https://github.com/Hiten1007/Ballot-Guide)** | Election education platform deployed on Google Cloud Run for the Google Prompt Wars competition | `JavaScript` `Cloud Run` `LLMs` | 🌍 **Rank 67 / 12,000+** |
-
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔋 Autonomous Energy Dispatcher</h3>
+      <p align="center">
+        <a href="https://github.com/Hiten1007/Autonomous-Renewable-First-Energy-Dispatcher">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/IBM_Granite-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p>Closed-loop <b>"Sense-Think-Act"</b> digital twin for autonomous hybrid energy grid management. RAG-based reasoning agent using IBM Granite 3.0 with a physics safety layer ensuring <b>100% operational safety</b>.</p>
+      <p align="center"><img src="https://img.shields.io/badge/🥇_Top_10-HackVeda_2026_(AWS_&_IBM)-FFD700?style=flat-square" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌊 FloatChat</h3>
+      <p align="center">
+        <a href="https://github.com/Hiten1007/FloatChat-Brain">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pinecone-000?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      </p>
+      <p>LLM-driven <b>RAG pipeline</b> ingesting <b>2M+ rows</b> of ARGO NetCDF data via SQL/Vector hybrid retrieval. NL2SQL with Prisma reduces retrieval time by <b>40%</b>.</p>
+      <p align="center"><img src="https://img.shields.io/badge/🎯_SIH_2025_Nominee-Smart_India_Hackathon-FF6B35?style=flat-square" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌿 B.R.E.E.Z.E</h3>
+      <p align="center">
+        <a href="https://github.com/Hiten1007/BREEZE-Backend">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <p>AI forecasting system predicting <b>24-hour ground-level O₃ and NO₂</b> concentrations using satellite datasets with automated AWS S3 pipelines and <b>real-time dashboards</b>.</p>
+      <p align="center"><img src="https://img.shields.io/badge/📡_Real--time_Dashboards-AWS_Cloud-232F3E?style=flat-square" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗳️ BallotGuide</h3>
+      <p align="center">
+        <a href="https://github.com/Hiten1007/Ballot-Guide">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square&logoColor=white" />
+      </p>
+      <p>Election education platform powered by LLMs, deployed on <b>Google Cloud Run</b> for the Google Virtual Prompt Wars competition.</p>
+      <p align="center"><img src="https://img.shields.io/badge/🌍_Global_Rank_67-out_of_12,000+-4285F4?style=flat-square" /></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -183,30 +219,29 @@ fun_fact: "I think in YAML, dream in Python, and deploy in Docker 🐳"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiten1007&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiten1007&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiten1007&theme=github_dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiten1007&theme=github_dark" alt="Top Languages by Repo"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiten1007&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiten1007&theme=github_dark" alt="Top Languages by Commit"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiten1007&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiten1007&theme=github_dark" alt="Contribution Graph" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hiten1007&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiten1007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiten1007/Hiten1007/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiten1007/Hiten1007/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Hiten1007/Hiten1007/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
