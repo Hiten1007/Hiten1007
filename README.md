@@ -91,78 +91,57 @@ fun_fact: "I think in YAML, dream in Python, and deploy in Docker 🐳"
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔋 Autonomous Energy Dispatcher</h3>
-      <p align="center">
-        <a href="https://github.com/Hiten1007/Autonomous-Renewable-First-Energy-Dispatcher">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/IBM_Granite-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <p>Closed-loop <b>"Sense-Think-Act"</b> digital twin for autonomous hybrid energy grid management. RAG-based reasoning agent using IBM Granite 3.0 with a physics safety layer ensuring <b>100% operational safety</b>.</p>
-      <p align="center"><img src="https://img.shields.io/badge/🥇_Top_10-HackVeda_2026_(AWS_&_IBM)-FFD700?style=flat-square" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌊 FloatChat</h3>
-      <p align="center">
-        <a href="https://github.com/Hiten1007/FloatChat-Brain">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pinecone-000?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      </p>
-      <p>LLM-driven <b>RAG pipeline</b> ingesting <b>2M+ rows</b> of ARGO NetCDF data via SQL/Vector hybrid retrieval. NL2SQL with Prisma reduces retrieval time by <b>40%</b>.</p>
-      <p align="center"><img src="https://img.shields.io/badge/🎯_SIH_2025_Nominee-Smart_India_Hackathon-FF6B35?style=flat-square" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌿 B.R.E.E.Z.E</h3>
-      <p align="center">
-        <a href="https://github.com/Hiten1007/BREEZE-Backend">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-      <p>AI forecasting system predicting <b>24-hour ground-level O₃ and NO₂</b> concentrations using satellite datasets with automated AWS S3 pipelines and <b>real-time dashboards</b>.</p>
-      <p align="center"><img src="https://img.shields.io/badge/📡_Real--time_Dashboards-AWS_Cloud-232F3E?style=flat-square" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🗳️ BallotGuide</h3>
-      <p align="center">
-        <a href="https://github.com/Hiten1007/Ballot-Guide">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square&logoColor=white" />
-      </p>
-      <p>Election education platform powered by LLMs, deployed on <b>Google Cloud Run</b> for the Google Virtual Prompt Wars competition.</p>
-      <p align="center"><img src="https://img.shields.io/badge/🌍_Global_Rank_67-out_of_12,000+-4285F4?style=flat-square" /></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🔋 [Autonomous Energy Dispatcher](https://github.com/Hiten1007/Autonomous-Renewable-First-Energy-Dispatcher)
+> Closed-loop **"Sense-Think-Act"** digital twin for autonomous hybrid energy grid management. RAG-based reasoning agent using IBM Granite 3.0 with a physics safety layer ensuring **100% operational safety**.
+
+![IBM Granite](https://img.shields.io/badge/IBM_Granite-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+🥇 **Top 10 – HackVeda 2026 (AWS & IBM)**
+
+---
+
+### 🌊 [FloatChat](https://github.com/Hiten1007/FloatChat-Brain)
+> LLM-driven **RAG pipeline** ingesting **2M+ rows** of ARGO NetCDF data via SQL/Vector hybrid retrieval. NL2SQL with Prisma reduces retrieval time by **40%**.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+🎯 **SIH 2025 Nominee – Smart India Hackathon**
+
+---
+
+### 🌿 [B.R.E.E.Z.E](https://github.com/Hiten1007/BREEZE-Backend)
+> AI forecasting system predicting **24-hour ground-level O₃ and NO₂** concentrations using satellite datasets with automated AWS S3 pipelines and **real-time dashboards**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+📡 **Real-time Dashboards with AWS Cloud**
+
+---
+
+### 🗳️ [BallotGuide](https://github.com/Hiten1007/Ballot-Guide)
+> Election education platform powered by LLMs, deployed on **Google Cloud Run** for the Google Virtual Prompt Wars competition.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=flat-square&logoColor=white)
+
+🌍 **Global Rank 67 / 12,000+ – Google Prompt Wars**
+
+</div>
 
 ---
 
