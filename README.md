@@ -5,8 +5,10 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI-Powered+Systems+%F0%9F%A4%96;Research+Intern+%40+Schneider+Electric+%E2%9A%A1;500%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Top+10+%40+HackVeda+2026+%F0%9F%8F%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=Building+AI-Powered+Systems+%F0%9F%A4%96;Research+Intern+%40+Schneider+Electric+%E2%9A%A1;500%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Top+10+%40+HackVeda+2026+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
+
+  <br>
 
   <!-- Social Badges -->
   <p>
@@ -24,31 +26,31 @@
 
 ## 🧬 About Me
 
-```yaml
-name: Hiten Gupta
-location: Dehradun, India 🇮🇳
-education:
-  university: UPES, Dehradun
-  degree: B.Tech Computer Science & Engineering (DevOps Specialization)
-  cgpa: 8.73 / 10
-  graduation: 2027
+<table>
+  <tr>
+    <td width="55%">
 
-current_role: Research Intern @ Schneider Electric ⚡
+🎓 **B.Tech CS (DevOps)** @ UPES Dehradun · Class of 2027 · **8.73 CGPA**
 
-previous_experience:
-  - role: Fullstack AI Intern
-    company: Newgen Software Technologies Limited
-    duration: 16 weeks
-    stack: [MERN, ReactJS, LangChain, MCP, Agentic AI]
+⚡ Currently a **Research Intern at Schneider Electric**, previously shipped production AI systems at **Newgen Software** for 16 weeks.
 
-interests:
-  - Agentic AI & LLM Orchestration
-  - Full-Stack Development
-  - Cloud & DevOps Engineering
-  - Competitive Programming
+I build things that sit at the intersection of **AI, full-stack, and infrastructure** — from agentic RAG pipelines to autonomous energy dispatchers. If there's an API, a model, and a deployment target, I'm probably already halfway through the PR.
 
-fun_fact: "I think in YAML, dream in Python, and deploy in Docker 🐳"
-```
+Outside of code, I'm usually:
+- 📖 Reading — sci-fi, philosophy, or whatever rabbit hole Wikipedia sends me down
+- ✍️ Writing — thoughts, notes, half-finished blog drafts
+- 🎮 Gaming — competitive FPS or story-driven RPGs
+- 🏃 Moving — runs, hikes, anything to get away from the screen
+- 🎵 Listening — lo-fi while coding, hip-hop while not
+
+    </td>
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiten1007&layout=donut-vertical&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+> *"Stay curious, build recklessly, ship relentlessly."*
 
 ---
 
