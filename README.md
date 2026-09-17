@@ -30,7 +30,7 @@
   <tr>
     <td width="55%">
 
-🎓 **B.Tech CS (DevOps)** @ UPES Dehradun · Class of 2027 · **8.73 CGPA**
+🎓 **B.Tech CS (DevOps)** @ UPES Dehradun · Class of 2027 · **8.68 CGPA**
 
 ⚡ Currently a **Research Intern at Schneider Electric**, previously shipped production AI systems at **Newgen Software** for 16 weeks.
 
